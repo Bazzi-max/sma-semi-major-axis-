@@ -1,1 +1,1 @@
-# sma-semi-major-axis
+# sma(semi-major-axis)
